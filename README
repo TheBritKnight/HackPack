@@ -6,3 +6,29 @@ My pack of useful/fun little hacks. Basically doodles in python.
 Author: Charles Dawson (TheBritKnight)
 
 License: CC BY-SA
+
+Contents:
+getTheAPOD.command -------- Gets NASA's Astronomy Picture of the Day and sets it as the wallpaper (need modification for paths)
+PLOICmail.py -------------- A script to send lots of mail, each with a different subject line, to an address. Useful for dealing with trolling friends
+redactor.py --------------- A doodle I made to search a file of text and replace each occurence of a string with "[REDACTED]"
+
+
+PLEASE feel free to modify these however you like (they could probably do with some fixing). Just remember: Share Alike!
+
+Happy Penguin!
+               a8888b.
+              d888888b.
+              8P"YP"Y88
+              8|o||o|88
+              8'    .88
+              8`._.' Y8.
+             d/      `8b.
+           .dP   .     Y8b.
+          d8:'   "   `::88b.
+         d8"           `Y88b
+        :8P     '       :888
+         8a.    :      _a88P
+       ._/"Yaa_ :    .| 88P|
+       \    YP"      `| 8P  `.
+       /     \._____.d|    .'
+       `--..__)888888P`._.'
