@@ -8,7 +8,7 @@ Author: Charles Dawson (TheBritKnight)
 License: CC BY-SA
 
 Contents:
-getTheAPOD.command -------- Gets NASA's Astronomy Picture of the Day and sets it as the wallpaper (need modification for paths)
+getTheAPOD.command -------- Gets NASA's Astronomy Picture of the Day and sets it as the wallpaper (needs modification for paths)
 PLOICmail.py -------------- A script to send lots of mail, each with a different subject line, to an address. Useful for dealing with trolling friends
 redactor.py --------------- A doodle I made to search a file of text and replace each occurence of a string with "[REDACTED]"
 
